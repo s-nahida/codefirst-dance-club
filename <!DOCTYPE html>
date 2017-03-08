@@ -1,0 +1,42 @@
+<!DOCTYPE html> 
+
+<head>
+	<title> LSE Dance Club </title>
+	<link rel="stylesheet" type="text/css" href="main.css">
+	
+</head>
+
+<body>
+
+	<h1> LSE Dance Club </h1>
+
+	<h2> Introduction </h2>
+
+	<p> 
+
+	<h2> Our Committee </h2>
+
+	<img src="Alex.jpg"> <p> Alex, President </p>
+	<img src="Niya.jpg"> <p> Niya, Vice-President </p>
+	<img src="Tiff.jpg"> <p> Tiff, Social Secretary </p>
+	<img src="Michelle.jpg"> <p> Michelle, Publicity Officer </p>
+	<img src="Jeslyn.jpg"> <p> Jeslyn, Treasurer </p>
+	<img src="Abi.jpg"> <p> Abi, Jazz Genre Rep </p>
+	<img src="Nicole.jpg"> <p> Nicole, Jazz Class Rep & Contemporary Fusion Rep </p>
+	<img src="Susie.jpg"> <p> Susie, Commercial Rep </p>
+	<img src="Megan.jpg"> <p> Megan, Hip Hop Genre Rep </p>
+	<img src="Suad.jpg"> <p> Suad, Hip Hop Class Rep </p>
+	<img src="Kwang.jpg"> <p> Kwang, Ballet Genre Rep </p>
+	<img src="Fleming.jpg"> <p> Fleming, Ballet Class Rep </p>
+	<img src="Cindy.jpg"> <p> Cindy, Contemporary Genre Rep </p>
+	<img src="Nahid.jpg"> <p> Nahid, Contemporary Class Rep </p>
+	<img src="Paul.jpg"> <p> Paul, Lyrical Jazz Rep </p>
+	<img src="D-Troy.jpg"> <p> D-Troy, Hip Flop Captain </p>
+
+	<h2> Classes and Teachers </h2>
+
+	<h2> Events </h2>
+
+	<h3> Dancer of the Month </h3>
+
+</body>
